@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736705170233",
+    "project_id": "auth-module-d91f4",
+    "storage_bucket": "auth-module-d91f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736705170233:android:c40c182b80b03a3b0af6e8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_autentikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqg3CL1sCc7mYi2zNVGn7IRXPA4laVi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
